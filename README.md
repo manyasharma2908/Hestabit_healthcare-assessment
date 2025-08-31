@@ -96,5 +96,3 @@ curl -H "Authorization: Bearer $ACCESS" http://localhost:8000/api/patients/
 ```bash
 python manage.py createsuperuser
 ```
-
-Good luck! ✨
